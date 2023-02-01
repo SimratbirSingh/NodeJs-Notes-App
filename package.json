@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimratbirSingh/NodeJs-Notes-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimratbirSingh/NodeJs-Notes-App/issues"
+  },
+  "homepage": "https://github.com/SimratbirSingh/NodeJs-Notes-App#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
